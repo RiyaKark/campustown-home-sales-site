@@ -1,4 +1,4 @@
-# [Your site's title]
+# [Campustown Home Sales Comparison]
 
 ## What this site is for
 
